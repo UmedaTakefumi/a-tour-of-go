@@ -27,3 +27,11 @@ math/rand Packageのrand.Intn関数を利用する
     My favortite number is 1
     $ 
 
+### 学習したこと ###
+
+* 処理はfunc main()から始まる。
+* すべてのGoプログラムは、パッケージで構成されている。
+* 規約でパッケージ名は、インポートパスの最後の要素と同一となる。
+  * go.net/websocketだった場合は、websocketとなる。
+  * 大事なことなのでもう一度、インポートパスとパッケージ名は別物
+
