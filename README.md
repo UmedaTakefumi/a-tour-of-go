@@ -10,6 +10,8 @@ A Tour of Go
 ## ツアー一覧
 
 * [Go01: Hello, 世界](01/README.md)
+* [Go03: The Go Playground](03/README.md)
+
 
 
 ## 情報源 ##
