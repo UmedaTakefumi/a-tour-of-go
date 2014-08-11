@@ -1,4 +1,4 @@
-Go0333：The Go Playground
+Go03：The Go Playground
 ======================
 
 ### 問題 ###
