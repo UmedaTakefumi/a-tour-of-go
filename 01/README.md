@@ -23,3 +23,8 @@ Go01：Hello, 世界
     Hello, 世界
     $ 
 
+### 学習したこと ###
+
+* packaget, import, func main() は必須
+* fmt package の Printf関数を使えば標準出力ができる。
+
