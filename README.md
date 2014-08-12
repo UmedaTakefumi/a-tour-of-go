@@ -13,6 +13,7 @@ A Tour of Go
 * [Go03: The Go Playground](03/README.md)
 * [Go04: Package](04/README.md)
 * [Go05: Imports](05/README.md)
+* [Go06: Exported names](06/README.md)
 
 
 
