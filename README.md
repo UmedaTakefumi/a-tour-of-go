@@ -14,7 +14,7 @@ A Tour of Go
 * [Go04: Package](04/README.md)
 * [Go05: Imports](05/README.md)
 * [Go06: Exported names](06/README.md)
-
+* [Go07：Functions](07/README.md)
 
 
 ## 情報源 ##
