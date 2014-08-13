@@ -36,7 +36,9 @@ Go08：Functions continued
 
 
     x int, y int
+    
     　↓ 次のように省略
+    
     x, y int
 
 
