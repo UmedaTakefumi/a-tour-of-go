@@ -16,6 +16,8 @@ A Tour of Go
 * [Go06: Exported names](06/README.md)
 * [Go07: Functions](07/README.md)
 * [Go08: Functions continued](08/README.md)
+* [Go09: Multiple results](09/README.md)
+
 
 ## 情報源 ##
 
