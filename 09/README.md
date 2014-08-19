@@ -28,7 +28,7 @@ Go09：Multiple results
 ### 実行結果 ###
 
     $ ./09/main.go 
-    7 10
+    world hello
     $
 
 
