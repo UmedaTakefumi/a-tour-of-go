@@ -1,4 +1,4 @@
-Go10：Multiple results
+Go10：Named results
 ======================
 
 ### 問題 ###
