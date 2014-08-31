@@ -17,6 +17,7 @@ A Tour of Go
 * [Go07: Functions](07/README.md)
 * [Go08: Functions continued](08/README.md)
 * [Go09: Multiple results](09/README.md)
+* [Go10: Named results](10/README.md)
 
 
 ## 情報源 ##
